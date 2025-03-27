@@ -1,3 +1,3 @@
 resource "aws instance" "name" {
-"test"
+"test 123"
 }
