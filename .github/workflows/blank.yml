@@ -19,6 +19,7 @@ jobs:
       runs-on: unbuntu-latest
       steps:
        - name: Check Uptime
+         run: uptime
        
        - name: kernel info
          run : uname -r
